@@ -25,10 +25,16 @@ A sample image has been stored in `/data`. Upload your images to `/data` as well
 Use a state-of-the-art image processing model to convert the photos in `/data` to "studio quality".  
 Some examples of studio quality images have been provided in `/data/studio-quality`.
 Studio-quality images will generally have the following properties:
-- a very high resolution of the product in the center
-- sharpness - sharply defined edges, no blurring
-- a white or blurred background
-- 
+- High Resolution: Studio images are typically captured with high-resolution cameras, resulting in crisp and detailed images. The high resolution allows for large prints and digital use without loss of quality.
+- Subject Isolation: Studio photography often uses shallow depth of field to isolate the subject from the background, creating a clear focus on the subject.
+- Clean and Controlled Backgrounds: Studio images typically feature plain and uncluttered backgrounds that are carefully controlled and lit to make the subject stand out.
+- Perfect Lighting: Studio photographers use precise lighting setups to sculpt the subject, eliminate harsh shadows, and create the desired mood. This may involve softboxes, diffusers, reflectors, and other lighting accessories.
+- Precise Focus and Sharpness: Studio photographers use manual focus and high-quality lenses to ensure precise control over focus, resulting in tack-sharp images.
+- Texture and Detail: Studio images bring out texture and fine detail in the subject, whether it's a product, a person's skin, or any other subject.
+- Minimal Noise Reduction: While noise reduction is essential, excessive noise reduction can lead to a loss of detail. In studio photography, noise reduction is applied judiciously to preserve texture and detail.
+- Professional Retouching: Post-processing is often applied to studio images to enhance their quality, including retouching for skin, removal of imperfections, and color correction.
+- Consistency: Studio photographers aim for consistent quality across a series of images, especially in commercial photography. This ensures that all product shots or portfolio images maintain a uniform style and quality.
+- Appropriate Depth: Studio images can achieve a sense of three-dimensionality by carefully controlling lighting to highlight form and depth in the subject.
 
 ## Task 3
 In addition to the images being studio quality, add a hand holding up each of the products in your photos.  
