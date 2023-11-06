@@ -21,6 +21,11 @@ These product images should satisfy the following conditions:
 
 A sample image has been stored in `/data`. Upload your images to `/data` as well.
 
+Which models might work best for such a task?  
+Will you need GPU compute to achieve the desired final quality, or can you achieve it with a decent CPU?  
+Is it possible to use multiple models - each providing a particular enhancement?  
+
+
 ## Task 2
 Use a state-of-the-art image processing model to convert the photos in `/data` to "studio quality".  
 Some examples of studio quality images have been provided in `/data/studio-quality`.
