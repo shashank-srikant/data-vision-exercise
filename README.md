@@ -9,7 +9,7 @@ More formally, we will look for the following in our evaluation:
 - (We will) assess how well you scope and assess the different components involved which will solve this problem
 - Assess how you divide your labor into the components you identify, and how quickly you're able to prototype and finish implementing those components. Remember, there's a time budget of a few days.
 - Assess how you resolve situations when you're stuck.
-- Assess how well you communicate and let all stakeholders know of your progress.
+- Assess how well you communicate and let all stakeholders know of your progress. We emphasize constant communication over receiving no communication for days, and just seeing a dump of the results on the day of your submission. This has multiple drawbacks: (1) it gives us no insight into the process you employ to evaluate a problem and come up with a solution. (2) it gives us no room to help you in case you're stuck on any step. Consider this to be a task you will receive on your job - demonstrate to us how you will work on the task in such a setting.
 
 ## Task 1 - Gather data
 Take photographs of five common products around you which someone may be interested in selling on an e-commerce platform. Example: a pen knife, knife, a shirt, etc.
