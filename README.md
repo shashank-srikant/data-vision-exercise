@@ -12,13 +12,28 @@ More formally, we will look for the following in our evaluation:
 - Assess how well you communicate and let all stakeholders know of your progress.
 
 ## Task 1 - Gather data
-Details of task 1
+Take photographs of five common products around you which someone may be interested in selling on an e-commerce platform. Example: a pen knife, knife, a shirt, etc.
+These product images should satisfy the following conditions:
+- the photo should be taken from a regular smart phone camera.
+- the product should be in the center, and cover most of the image.
+- it should have a uniformly colored background.
+- it should be captured under regular (but good) lighting in your surroundings. For example, you don't need to have studio-grade lighting; just a table lamp so that the product is well lit.
+
+A sample image has been stored in `/data`. Upload your images to `/data` as well.
 
 ## Task 2
-Details of task 2
+Use a state-of-the-art image processing model to convert the photos in `/data` to "studio quality".  
+Some examples of studio quality images have been provided in `/data/studio-quality`.
+Studio-quality images will generally have the following properties:
+- a very high resolution of the product in the center
+- sharpness - sharply defined edges, no blurring
+- a white or blurred background
+- 
 
 ## Task 3
-
+In addition to the images being studio quality, add a hand holding up each of the products in your photos.  
+If the product is too large, consider resizing it so that it will look natural for a hand to hold it up.  
+An example has been provided in `data/studio-quality-with-hand`
 
 ## Instructions to submit your work
 - Do not fork this repo. Work on a local copy. Make it a habit to push changes upstream to your repo as frequently as feasible.
