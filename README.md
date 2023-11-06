@@ -19,7 +19,7 @@ These product images should satisfy the following conditions:
 - it should have a uniformly colored background.
 - it should be captured under regular (but good) lighting in your surroundings. For example, you don't need to have studio-grade lighting; just a table lamp so that the product is well lit.
 
-A sample image has been stored in `/data`. Upload your images to `/data` as well.
+A sample image has been stored in `./data/products/`. Upload your images to `./data/products/` as well.
 
 Which models might work best for such a task?  
 Will you need GPU compute to achieve the desired final quality, or can you achieve it with a decent CPU?  
@@ -27,8 +27,8 @@ Is it possible to use multiple models - each providing a particular enhancement?
 
 
 ## Task 2
-Use a state-of-the-art image processing model to convert the photos in `/data` to "studio quality".  
-Some examples of studio quality images have been provided in `/data/studio-quality`.
+Use a state-of-the-art image processing model to convert the photos in `./data/products/` to "studio quality".  
+Some examples of studio quality images have been provided in `./data/products-studio-quality/`.
 Studio-quality images will generally have the following properties:
 - High Resolution: Studio images are typically captured with high-resolution cameras, resulting in crisp and detailed images. The high resolution allows for large prints and digital use without loss of quality.
 - Subject Isolation: Studio photography often uses shallow depth of field to isolate the subject from the background, creating a clear focus on the subject.
@@ -44,7 +44,7 @@ Studio-quality images will generally have the following properties:
 ## Task 3
 In addition to the images being studio quality, add a hand holding up each of the products in your photos.  
 If the product is too large, consider resizing it so that it will look natural for a hand to hold it up.  
-An example has been provided in `data/studio-quality-with-hand`
+An example has been provided in `./data/products-studio-quality-with-hand/`
 
 ## Instructions to submit your work
 - Do not fork this repo. Work on a local copy. Make it a habit to push changes upstream to your repo as frequently as feasible.
