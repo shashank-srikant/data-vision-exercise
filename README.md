@@ -21,11 +21,6 @@ These product images should satisfy the following conditions:
 
 A sample image has been stored in `./data/products/`. Upload your images to `./data/products/` as well.
 
-Which models might work best for such a task?  
-Will you need GPU compute to achieve the desired final quality, or can you achieve it with a decent CPU?  
-Is it possible to use multiple models - each providing a particular enhancement?  
-
-
 ## Task 2
 Use a state-of-the-art image processing model to convert the photos in `./data/products/` to "studio quality".  
 Some examples of studio quality images have been provided in `./data/products-studio-quality/`.
@@ -40,6 +35,11 @@ Studio-quality images will generally have the following properties:
 - Professional Retouching: Post-processing is often applied to studio images to enhance their quality, including retouching for skin, removal of imperfections, and color correction.
 - Consistency: Studio photographers aim for consistent quality across a series of images, especially in commercial photography. This ensures that all product shots or portfolio images maintain a uniform style and quality.
 - Appropriate Depth: Studio images can achieve a sense of three-dimensionality by carefully controlling lighting to highlight form and depth in the subject.
+
+Which models might work best for such a task?  
+Will you need GPU compute to achieve the desired final quality, or can you achieve it with a decent CPU?  
+Is it possible to use multiple models - each providing a particular enhancement?  
+In case of multiple models being suitable, which one model would you go for which might achieve the best possible outcome?
 
 ## Task 3
 In addition to the images being studio quality, add a hand holding up each of the products in your photos.  
