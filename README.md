@@ -5,7 +5,7 @@ The goal here is to evaluate how well you understand the problem, scope it, come
 More formally, we will look for the following in our evaluation:
 
 ## Expected deliverables and evaluation criteria
-- Have a working prototype of the task described below.
+- Have a working prototype of the task described below. It is fine if your prototype's performance does not match the quality you may have in mind. We value a prototype showcasing all the required tasks moderately well over a prototype which solves just a few of the required tasks very well.
 - (We will) assess how well you scope and assess the different components involved which will solve this problem
 - Assess how you divide your labor into the components you identify, and how quickly you're able to prototype and finish implementing those components. Remember, there's a time budget of a few days.
 - Assess how you resolve situations when you're stuck.
